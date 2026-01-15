@@ -45,7 +45,7 @@ My recent research focuses on:
 
 # 📚 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/spalic.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/hpcm.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Yiheng Jiang**, Haotian Zhang, Li Li, Dong Liu, Zhu Li. Sparse Point Clouds Assisted Learned Image Compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024. [[Xplore]](https://ieeexplore.ieee.org/document/10816198) [[Arxiv]](https://arxiv.org/abs/2412.15752)
@@ -78,7 +78,7 @@ My recent research focuses on:
 
 ## AVS Standard Proposals
 - **蒋易恒**, 李宇琪, 张昊田, 李礼, 刘东. 三维生物医学图像基于单高斯查找表的熵编码加速. M9339, 2025. (Adopted)
-- **蒋易恒**, 李瑶, 李宇琪, 张昊田, 卞逸凡, 李礼, 刘东. 三维医学图像基于超先验网络的浅层小波编码框架的扩展应用. M9240, 2025. (Adopted)
+- **蒋易恒**, 李瑶, 李宇琪, 张昊田, 卞逸凡, 薛冬梅, 李礼, 刘东. 三维医学图像基于超先验网络的浅层小波编码框架的扩展应用. M9240, 2025. (Adopted)
 - **蒋易恒**, 薛冬梅, 李礼, 刘东. 三维医学图像基于超先验网络的浅层小波编码框架. M9002, 2025. (Adopted)
 - **蒋易恒**, 薛冬梅, 李礼, 刘东. 三维生物医学图像编码基准测试错误纠正. M9000, 2025. (Adopted)
 - **蒋易恒**, 薛冬梅, 李礼, 刘东. 三维医学图像CT无损模式训练策略优化. M8800, 2025. (Adopted)
