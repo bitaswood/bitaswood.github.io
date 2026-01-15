@@ -6,6 +6,9 @@ main:
   - title: "Educations"
     url: "/#-edu"
 
+  - title: "Internships"
+    url: "/#-int"
+
   - title: "Publications"
     url: "/#-pub"
 
@@ -14,8 +17,3 @@ main:
 
   - title: "Challenge Awards"
     url: "#-cha"
-    
-  - title: "Honors"
-    url: "#-hon"
-
-
