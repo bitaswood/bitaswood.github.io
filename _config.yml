@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haotian Zhang"
+title                    : "Yiheng Jiang"
 description              : "PhD student in image and video coding"
-repository               : "htzhang99/htzhang99.github.io"
+repository               : "bitaswood/bitaswood.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -27,8 +27,8 @@ author:
   location         : "Hefei, Anhui Province, China"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=7fS32hcAAAAJ&hl=zh-CN&oi=ao"
-  email            : "zhanghaotian@mail.ustc.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=oCKtCLYAAAAJ&hl=zh-CN&oi=ao"
+  email            : "bitaswood@mail.ustc.edu.cn"
   researchgate     : #"https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "htzhang99"
+  github           : "bitaswood"
   csdn             : #"https://blog.csdn.net/qq_43616471"
   zhihu            : #"https://www.zhihu.com/people/chao-zhuai-xiao-peng-you"
   google_plus      :
@@ -163,3 +163,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
