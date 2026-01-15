@@ -39,7 +39,7 @@ My recent research focuses on:
 <span class='anchor' id='-int'></span>
 
 # 💼 Internships
-- *2021.07 - 2022.06*, Microsoft Research Asia, Media Computing Group.
+- *2021.07 - 2022.06*, Microsoft Research Asia, Media Computing Group, Beijing.
  
 <span class='anchor' id='-pub'></span>
 
